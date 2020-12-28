@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+{% comment %} 
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -57,3 +59,6 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+{% endcomment %}
+
