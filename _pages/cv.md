@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://wang-yuyan.github.io/files/cv.pdf" width="500" height="375">
+viewer?embedded=true&url=https://github.com/wang-yuyan/wang-yuyan.github.io/files/cv.pdf" width="500" height="375">
 
 
 {% comment %} 
