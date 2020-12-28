@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-Note: <sup><span style="color:gray">some *text* </span></sup>
+Note: <sup><span style="color:gray">*abc*</span></sup> denotes that the authors are listed in *alphabetical* order, per the tradition of (theoretical) computer science. 
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
