@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuyan Wang"
+title: "Yuyan Wang blah blah"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
