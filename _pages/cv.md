@@ -13,9 +13,6 @@ redirect_from:
     <p>Insert your error message here, if the PDF cannot be displayed.</p>
 </object>
 
-<embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://wang-yuyan.github.io/files/cv.pdf" width="500" height="375">
-
 
 {% comment %} 
 Education
