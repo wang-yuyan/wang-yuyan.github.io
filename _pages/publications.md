@@ -1,4 +1,4 @@
----
+--- 
 layout: archive
 title: "Publications"
 permalink: /publications/
@@ -10,6 +10,8 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+
+Note: <sup><span style="color:gray">some *text* </span></sup>
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
