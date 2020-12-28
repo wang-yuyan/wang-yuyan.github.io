@@ -1,6 +1,5 @@
 ---
 title: "An Objective for Hierarchical Clustering in Euclidean Space and Its Connection to Bisecting K-means"
-authors: Benjamin Moseley and Yuyan Wang
 collection: publications
 permalink: /publications/2020-02-01-paper-hc-obj
 excerpt: 'Design a new global objective function to measure the quality of Hierarchical Clustering solutions for inputs in Eulidean space and discussed about its theoretical connection to groud-truth inputs and algorithms used in practice.'
