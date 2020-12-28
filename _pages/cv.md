@@ -9,14 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src=”https://wang-yuyan.github.io/files/cv.pdf" width=”100%” height=”100%”>
-This browser does not support PDFs. Please download the PDF to view it: Download PDF
-</iframe>
+<iframe src=”https://wang-yuyan.github.io/files/cv.pdf" width=”100%” height=”100%”></iframe>
                                                        
                                                        
 {% comment %} 
 <object width="400" height="500" type="application/pdf" data="https://wang-yuyan.github.io/files/cv.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
-    #<p>Insert your error message here, if the PDF cannot be displayed.</p>
+    <p>Insert your error message here, if the PDF cannot be displayed.</p>
 </object>
 
 
