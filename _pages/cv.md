@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+<object width="400" height="500" type="application/pdf" data="https://github.com/wang-yuyan/wang-yuyan.github.io/files/cv.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
+    <p>Insert your error message here, if the PDF cannot be displayed.</p>
+</object>
+
 <embed src="https://drive.google.com/viewerng/
 viewer?embedded=true&url=https://github.com/wang-yuyan/wang-yuyan.github.io/files/cv.pdf" width="500" height="375">
 
