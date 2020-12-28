@@ -1,7 +1,7 @@
 ---
 title: "An Objective for Hierarchical Clustering in Euclidean Space and Its Connection to Bisecting K-means"
 collection: publications
-permalink: /publication/2020-02-paper-hc-obj
+permalink: /publications/2020-02-paper-hc-obj
 excerpt: 'A new objective for Hierarchical Clustering in Euclidean space.'
 date: 2020-02
 venue: 'AAAI'
