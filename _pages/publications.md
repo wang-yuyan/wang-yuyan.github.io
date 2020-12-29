@@ -17,6 +17,7 @@ Note: <sup><span style="color:gray">*abc*</span></sup> denotes that the authors 
   {% include archive-single.html %}
 {% endfor %}
 
-## Submissions
-
+{% for post in site.submissions reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
