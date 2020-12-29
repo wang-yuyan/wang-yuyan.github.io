@@ -1,5 +1,5 @@
 ---
-title: "Faster Hierarchical Clustering in General Metric Spaces usingApproximate Nearest Neighbors"
+title: "Faster Hierarchical Clustering in General Metric Spaces using Approximate Nearest Neighbors"
 alphabetical: true
 authors: 'Benjamin Moseley, Sergei Vassilvitskii and Yuyan Wang'
 collection: publications
