@@ -35,7 +35,7 @@
     {% endif %}
     
         {% if post.alphabetical == true and post.authors %}
-          <i> <sup style="color:gray"> abc </sup> </i>   <b> <i> Authors: </i>, {{ post.authors}} </b> 
+          <i> <sup style="color:gray"> abc </sup> </i>   <b> <i> Authors: </i> {{ post.authors}} </b> 
         {% elsif post.authors %}
           <b> <i> Authors: </i>, {{ post.authors}} </b>
         {% endif %}
@@ -55,11 +55,11 @@
     {% endif %}
     
     {% if post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+      <p>Recommended citation: {{ post.citation }} <a href="'{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+      <p>Download <a href=" {{ post.paperurl }} ">here</a></p>
     {% endif %}
 
   </article>
