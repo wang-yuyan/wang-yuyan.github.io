@@ -37,7 +37,7 @@
         {% if post.alphabetical == true and post.authors %}
           <i> <sup style="color:gray"> abc </sup> </i>   <b> <i> Authors: </i> {{ post.authors}} </b> 
         {% elsif post.authors %}
-          <b> <i> Authors: </i>, {{ post.authors}} </b>
+          <b> <i> Authors: </i> {{ post.authors}} </b>
         {% endif %}
 
         {% if post.collection == 'teaching' %}
