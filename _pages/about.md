@@ -14,7 +14,8 @@ My research combines Operations Research/Computer Science tools with Machine Lea
 
 Before coming to CMU in 2017, I was an undergraduate at Tsinghua University (2013-2017).
 
-I have been a reviewer for: ICLR 2021 and AISTATS 2021.
+I have been a reviewer for the following venues:
+ICLR 2021, AISTATS 2021 and ICML 2021.
 
 *Last Updated on 04/21/2021.*
 
